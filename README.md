@@ -13,3 +13,6 @@ The churned rate continues to decrease as the tenure increases i.e. customers wh
 Churn rate for both the genders are almost the same i.e., gender does not really affect churn rate
 
 The heat map shows that most customers leave at their 1st to 6th tenure 
+
+
+Check this link for my report https://github.com/Soft-Analytics/Customer-Segmentation-Visualization-and-Churn-Analysis-/blob/main/Screenshot%202026-02-13%20140730.png
