@@ -16,3 +16,5 @@ The heat map shows that most customers leave at their 1st to 6th tenure
 
 
 Check this link for my report https://github.com/Soft-Analytics/Customer-Segmentation-Visualization-and-Churn-Analysis-/blob/main/Screenshot%202026-02-13%20140730.png
+
+Check here for the heat map report https://github.com/Soft-Analytics/Customer-Segmentation-Visualization-and-Churn-Analysis-/blob/main/Screenshot%202026-02-10%20230229.png
